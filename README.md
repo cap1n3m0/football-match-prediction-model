@@ -2,7 +2,7 @@
 This project leverages the power of machine learning to predict the outcomes of football matches in the English Premier League (EPL). By analyzing historical match data obtained through web scraping, we aim to develop a predictive model using the random forest classifier algorithm. The goal is to enhance the accuracy of match outcome predictions, providing valuable insights for sports analysts, bettors, and football enthusiasts.
 
 ## Installation
-Install the following locally:
+Install the following:
 * JupyerLab
 * Python 3.8+
 * Python packages
