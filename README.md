@@ -33,5 +33,5 @@ Description: The final step focuses on evaluating the model's performance and re
 1. Advanced Metrics: Incorporate more advanced metrics such as player statistics, injury reports, and weather conditions on match day.
 2. Recent Form: Calculate and include features that capture the recent form of the teams, such as points earned in the last 5 matches.
 3. Head-to-Head Statistics: Include historical head-to-head performance metrics between teams.
-4. Interactive Dashboard: Develop an interactive web-based dashboard using tools like Flask or Django for the backend and D3.js or Plotly for the frontend. This can allow users to input match details and get predictions easily.
+4. Interactive Dashboard: Develop an interactive web-based dashboard. This can allow users to input match details and get predictions easily.
 5. Multiple Models: Compare the performance of different machine learning models (e.g., logistic regression, SVM, neural networks) to determine the best approach for the prediction task.
